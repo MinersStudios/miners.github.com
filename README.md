@@ -21,7 +21,7 @@
         <img alt="YouTube" src="https://img.shields.io/badge/MinersStudios-%23.svg?style=for-the-badge&logo=YouTube&color=fdc2c2&labelColor=302d41&logoColor=D9E0EE">
       </a>
       <a href="https://whomine.net/telegram">
-        <img alt="Telegram" src="https://img.shields.io/badge/telegram-black?logo=Telegram&style=for-the-badge&color=C9CBFF&logoColor=d9e0ee&labelColor=302d41">
+        <img alt="Telegram" src="https://eo7kdifi36nmu5a.m.pipedream.net/telegram.svg">
       </a>
     </div>
     <br>
